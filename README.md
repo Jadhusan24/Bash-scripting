@@ -8,7 +8,7 @@ This project includes basic bash scripts to show you what can be done with it!
 
 | File  | Description  |
 |:-:|---|
-| `Chatbot.sh`  | `Show date and time in a colorful way`  |
+| `Chatbot.sh`  | `User input`  |
 | `file-reader.sh`  | `./file-reader.sh -a "File.txt" -b "File.txt" -c S`  | 
 | `if-else.sh`  | `Get some information about statement`  |
 | `loops.sh`  | `Get some information about loops`  |
