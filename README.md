@@ -8,6 +8,7 @@ This project includes basic bash scripts to show you what can be done with it!
 
 | File  | Description  |
 |:-:|---|
+| `assessment.bash`  | `Small Assessment`  |
 | `Chatbot.sh`  | `User input`  |
 | `file-reader.sh`  | `./file-reader.sh -a "File.txt" -b "File.txt" -c S`  | 
 | `if-else.sh`  | `Get some information about statement`  |
@@ -17,7 +18,7 @@ This project includes basic bash scripts to show you what can be done with it!
 
 ## Roadmap
 I'll try to make this project more useful so
-feel free to share your ideas or report bugs, I'll look at that soon.
+feel free to share your ideas, I'll look at that soon.
 
 ## License
 This project is licensed under the GNU GPLv3 License - see the [LICENSE](LICENSE) file for details.
